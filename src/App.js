@@ -3,7 +3,7 @@ import React, { useState } from 'react'
 function App() {
 
 
-  const [count,setCount] = useState("slolwodlawo")
+  const [count,setCount] = useState("0")
 
   function counter(valuew){
     const temp = valuew.split('')
